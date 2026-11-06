@@ -1,0 +1,16 @@
+{
+  "e3d4": {
+    "probe_gain_db": {
+      "temporal": 0.6503881212982208,
+      "fre": 0.9525854940957394
+    },
+    "interface_trigger": true
+  },
+  "e6d2": {
+    "probe_gain_db": {
+      "temporal": 1.226882460084055,
+      "fre": 1.2602516021957717
+    },
+    "interface_trigger": true
+  }
+}

@@ -1,0 +1,302 @@
+[
+  {
+    "backbone": "base",
+    "task": "temporal",
+    "route": "encoder",
+    "monotonic": true,
+    "largest_jump": {
+      "from": "e2d4",
+      "to": "e1d4",
+      "increment_db": 1.4839466984483618
+    },
+    "candidate": "e2d4",
+    "status": "candidate_knee",
+    "increments": [
+      {
+        "from": "e6d4",
+        "to": "e5d4",
+        "increment_db": 0.19432737556631885
+      },
+      {
+        "from": "e5d4",
+        "to": "e4d4",
+        "increment_db": 0.34301624526976227
+      },
+      {
+        "from": "e4d4",
+        "to": "e3d4",
+        "increment_db": 0.3311196516407673
+      },
+      {
+        "from": "e3d4",
+        "to": "e2d4",
+        "increment_db": 0.45447124132307337
+      },
+      {
+        "from": "e2d4",
+        "to": "e1d4",
+        "increment_db": 1.4839466984483618
+      }
+    ]
+  },
+  {
+    "backbone": "base",
+    "task": "temporal",
+    "route": "decoder",
+    "monotonic": true,
+    "largest_jump": {
+      "from": "e6d4",
+      "to": "e6d3",
+      "increment_db": 4.594679298209295
+    },
+    "candidate": "e6d4",
+    "status": "candidate_knee",
+    "increments": [
+      {
+        "from": "e6d4",
+        "to": "e6d3",
+        "increment_db": 4.594679298209295
+      },
+      {
+        "from": "e6d3",
+        "to": "e6d2",
+        "increment_db": 1.6207252376624357
+      },
+      {
+        "from": "e6d2",
+        "to": "e6d1",
+        "increment_db": 0.8952029739026894
+      },
+      {
+        "from": "e6d1",
+        "to": "e6d0",
+        "increment_db": 2.5241862187832016
+      }
+    ]
+  },
+  {
+    "backbone": "base",
+    "task": "fre",
+    "route": "encoder",
+    "monotonic": true,
+    "largest_jump": {
+      "from": "e2d4",
+      "to": "e1d4",
+      "increment_db": 1.2647179194185405
+    },
+    "candidate": "e2d4",
+    "status": "candidate_knee",
+    "increments": [
+      {
+        "from": "e6d4",
+        "to": "e5d4",
+        "increment_db": 0.29255143245753956
+      },
+      {
+        "from": "e5d4",
+        "to": "e4d4",
+        "increment_db": 0.5541237967169366
+      },
+      {
+        "from": "e4d4",
+        "to": "e3d4",
+        "increment_db": 0.34113631776961384
+      },
+      {
+        "from": "e3d4",
+        "to": "e2d4",
+        "increment_db": 0.46341895663445953
+      },
+      {
+        "from": "e2d4",
+        "to": "e1d4",
+        "increment_db": 1.2647179194185405
+      }
+    ]
+  },
+  {
+    "backbone": "base",
+    "task": "fre",
+    "route": "decoder",
+    "monotonic": true,
+    "largest_jump": {
+      "from": "e6d4",
+      "to": "e6d3",
+      "increment_db": 4.510126571635277
+    },
+    "candidate": "e6d4",
+    "status": "candidate_knee",
+    "increments": [
+      {
+        "from": "e6d4",
+        "to": "e6d3",
+        "increment_db": 4.510126571635277
+      },
+      {
+        "from": "e6d3",
+        "to": "e6d2",
+        "increment_db": 1.5965519687561702
+      },
+      {
+        "from": "e6d2",
+        "to": "e6d1",
+        "increment_db": 1.2037567588531939
+      },
+      {
+        "from": "e6d1",
+        "to": "e6d0",
+        "increment_db": 2.733419574514855
+      }
+    ]
+  },
+  {
+    "backbone": "small",
+    "task": "temporal",
+    "route": "encoder",
+    "monotonic": true,
+    "largest_jump": {
+      "from": "e2d4",
+      "to": "e1d4",
+      "increment_db": 1.710588131557504
+    },
+    "candidate": "e2d4",
+    "status": "candidate_knee",
+    "increments": [
+      {
+        "from": "e6d4",
+        "to": "e5d4",
+        "increment_db": 0.40006099772284287
+      },
+      {
+        "from": "e5d4",
+        "to": "e4d4",
+        "increment_db": 0.3628096970264014
+      },
+      {
+        "from": "e4d4",
+        "to": "e3d4",
+        "increment_db": 0.8080858870503445
+      },
+      {
+        "from": "e3d4",
+        "to": "e2d4",
+        "increment_db": 0.7819855194015775
+      },
+      {
+        "from": "e2d4",
+        "to": "e1d4",
+        "increment_db": 1.710588131557504
+      }
+    ]
+  },
+  {
+    "backbone": "small",
+    "task": "temporal",
+    "route": "decoder",
+    "monotonic": true,
+    "largest_jump": {
+      "from": "e6d4",
+      "to": "e6d3",
+      "increment_db": 4.6376195071113475
+    },
+    "candidate": "e6d4",
+    "status": "candidate_knee",
+    "increments": [
+      {
+        "from": "e6d4",
+        "to": "e6d3",
+        "increment_db": 4.6376195071113475
+      },
+      {
+        "from": "e6d3",
+        "to": "e6d2",
+        "increment_db": 0.9587771289683822
+      },
+      {
+        "from": "e6d2",
+        "to": "e6d1",
+        "increment_db": 1.0143961081950117
+      },
+      {
+        "from": "e6d1",
+        "to": "e6d0",
+        "increment_db": 3.019989977826807
+      }
+    ]
+  },
+  {
+    "backbone": "small",
+    "task": "fre",
+    "route": "encoder",
+    "monotonic": true,
+    "largest_jump": {
+      "from": "e4d4",
+      "to": "e3d4",
+      "increment_db": 0.923535578550883
+    },
+    "candidate": "e4d4",
+    "status": "candidate_knee",
+    "increments": [
+      {
+        "from": "e6d4",
+        "to": "e5d4",
+        "increment_db": 0.5001434212428677
+      },
+      {
+        "from": "e5d4",
+        "to": "e4d4",
+        "increment_db": 0.6437373012500824
+      },
+      {
+        "from": "e4d4",
+        "to": "e3d4",
+        "increment_db": 0.923535578550883
+      },
+      {
+        "from": "e3d4",
+        "to": "e2d4",
+        "increment_db": 0.7391016458196127
+      },
+      {
+        "from": "e2d4",
+        "to": "e1d4",
+        "increment_db": 0.7584419395746131
+      }
+    ]
+  },
+  {
+    "backbone": "small",
+    "task": "fre",
+    "route": "decoder",
+    "monotonic": true,
+    "largest_jump": {
+      "from": "e6d4",
+      "to": "e6d3",
+      "increment_db": 4.730527347559888
+    },
+    "candidate": "e6d4",
+    "status": "candidate_knee",
+    "increments": [
+      {
+        "from": "e6d4",
+        "to": "e6d3",
+        "increment_db": 4.730527347559888
+      },
+      {
+        "from": "e6d3",
+        "to": "e6d2",
+        "increment_db": 1.2834346189428434
+      },
+      {
+        "from": "e6d2",
+        "to": "e6d1",
+        "increment_db": 1.352547334451109
+      },
+      {
+        "from": "e6d1",
+        "to": "e6d0",
+        "increment_db": 2.8003938628921183
+      }
+    ]
+  }
+]

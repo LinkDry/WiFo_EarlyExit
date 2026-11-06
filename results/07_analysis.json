@@ -1,0 +1,134 @@
+[
+  {
+    "enc_depth": 3,
+    "dec_depth": 4,
+    "task": "temporal",
+    "records": [
+      {
+        "backbone": "base",
+        "depth_cost_db": 0.7023711978884783,
+        "cost_reduction_pct": 20.238095238095227
+      },
+      {
+        "backbone": "small",
+        "depth_cost_db": 1.2915385669900887,
+        "cost_reduction_pct": 19.565217391304344
+      },
+      {
+        "backbone": "little",
+        "depth_cost_db": 2.2671988287681604,
+        "cost_reduction_pct": 18.51851851851852
+      },
+      {
+        "backbone": "tiny",
+        "depth_cost_db": 2.9871077602424867,
+        "cost_reduction_pct": 17.142857142857146
+      }
+    ],
+    "increments_db": [
+      0.5891673691016104,
+      0.9756602617780716,
+      0.7199089314743263
+    ],
+    "narrower_more_degradation": true
+  },
+  {
+    "enc_depth": 3,
+    "dec_depth": 4,
+    "task": "fre",
+    "records": [
+      {
+        "backbone": "base",
+        "depth_cost_db": 1.0355973165284684,
+        "cost_reduction_pct": 20.238095238095227
+      },
+      {
+        "backbone": "small",
+        "depth_cost_db": 1.802538996706403,
+        "cost_reduction_pct": 19.565217391304344
+      },
+      {
+        "backbone": "little",
+        "depth_cost_db": 2.4763926618913157,
+        "cost_reduction_pct": 18.51851851851852
+      },
+      {
+        "backbone": "tiny",
+        "depth_cost_db": 2.550428624261647,
+        "cost_reduction_pct": 17.142857142857146
+      }
+    ],
+    "increments_db": [
+      0.7669416801779345,
+      0.6738536651849127,
+      0.07403596237033128
+    ],
+    "narrower_more_degradation": true
+  },
+  {
+    "enc_depth": 6,
+    "dec_depth": 2,
+    "task": "temporal",
+    "records": [
+      {
+        "backbone": "base",
+        "depth_cost_db": 2.0240330635897914,
+        "cost_reduction_pct": 28.571428571428566
+      },
+      {
+        "backbone": "small",
+        "depth_cost_db": 2.040998603716334,
+        "cost_reduction_pct": 28.985507246376805
+      },
+      {
+        "backbone": "little",
+        "depth_cost_db": 2.588165137834629,
+        "cost_reduction_pct": 29.629629629629626
+      },
+      {
+        "backbone": "tiny",
+        "depth_cost_db": 2.61646441486256,
+        "cost_reduction_pct": 30.476190476190474
+      }
+    ],
+    "increments_db": [
+      0.0169655401265425,
+      0.5471665341182952,
+      0.02829927702793089
+    ],
+    "narrower_more_degradation": true
+  },
+  {
+    "enc_depth": 6,
+    "dec_depth": 2,
+    "task": "fre",
+    "records": [
+      {
+        "backbone": "base",
+        "depth_cost_db": 2.475774399880833,
+        "cost_reduction_pct": 28.571428571428566
+      },
+      {
+        "backbone": "small",
+        "depth_cost_db": 2.7482024006331036,
+        "cost_reduction_pct": 28.985507246376805
+      },
+      {
+        "backbone": "little",
+        "depth_cost_db": 3.8544565742063766,
+        "cost_reduction_pct": 29.629629629629626
+      },
+      {
+        "backbone": "tiny",
+        "depth_cost_db": 3.5369705771717657,
+        "cost_reduction_pct": 30.476190476190474
+      }
+    ],
+    "increments_db": [
+      0.2724280007522708,
+      1.106254173573273,
+      -0.3174859970346109
+    ],
+    "narrower_more_degradation": false
+  }
+]

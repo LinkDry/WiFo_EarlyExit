@@ -1,0 +1,5 @@
+numpy==2.4.6
+scipy==1.17.1
+matplotlib==3.10.8
+hdf5storage==0.2.2
+torch==2.14.0

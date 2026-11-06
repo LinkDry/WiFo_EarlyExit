@@ -1,0 +1,231 @@
+{
+  "curve_summary": [
+    {
+      "backbone": "base",
+      "enc_depth": 6,
+      "dec_depth": 4,
+      "task": "temporal",
+      "depth_cost_mean_db": 0.0,
+      "depth_cost_std_db": 0.0
+    },
+    {
+      "backbone": "base",
+      "enc_depth": 5,
+      "dec_depth": 4,
+      "task": "temporal",
+      "depth_cost_mean_db": 0.14124525106397398,
+      "depth_cost_std_db": 0.005320143384389419
+    },
+    {
+      "backbone": "base",
+      "enc_depth": 4,
+      "dec_depth": 4,
+      "task": "temporal",
+      "depth_cost_mean_db": 0.4143051946632106,
+      "depth_cost_std_db": 0.005479229688497357
+    },
+    {
+      "backbone": "base",
+      "enc_depth": 3,
+      "dec_depth": 4,
+      "task": "temporal",
+      "depth_cost_mean_db": 0.6945028115200884,
+      "depth_cost_std_db": 0.006127602041103042
+    },
+    {
+      "backbone": "base",
+      "enc_depth": 6,
+      "dec_depth": 3,
+      "task": "temporal",
+      "depth_cost_mean_db": 1.047928334813679,
+      "depth_cost_std_db": 0.0030310144279760997
+    },
+    {
+      "backbone": "base",
+      "enc_depth": 6,
+      "dec_depth": 2,
+      "task": "temporal",
+      "depth_cost_mean_db": 2.0039339746856397,
+      "depth_cost_std_db": 0.018391375299476057
+    },
+    {
+      "backbone": "base",
+      "enc_depth": 6,
+      "dec_depth": 4,
+      "task": "fre",
+      "depth_cost_mean_db": 0.0,
+      "depth_cost_std_db": 0.0
+    },
+    {
+      "backbone": "base",
+      "enc_depth": 5,
+      "dec_depth": 4,
+      "task": "fre",
+      "depth_cost_mean_db": 0.22191768942588533,
+      "depth_cost_std_db": 0.0014401180550402506
+    },
+    {
+      "backbone": "base",
+      "enc_depth": 4,
+      "dec_depth": 4,
+      "task": "fre",
+      "depth_cost_mean_db": 0.7045152896845129,
+      "depth_cost_std_db": 0.002613217490435036
+    },
+    {
+      "backbone": "base",
+      "enc_depth": 3,
+      "dec_depth": 4,
+      "task": "fre",
+      "depth_cost_mean_db": 1.0312008289448595,
+      "depth_cost_std_db": 0.003194144823812829
+    },
+    {
+      "backbone": "base",
+      "enc_depth": 6,
+      "dec_depth": 3,
+      "task": "fre",
+      "depth_cost_mean_db": 1.4207998634907824,
+      "depth_cost_std_db": 0.005017682874095385
+    },
+    {
+      "backbone": "base",
+      "enc_depth": 6,
+      "dec_depth": 2,
+      "task": "fre",
+      "depth_cost_mean_db": 2.4645323822253866,
+      "depth_cost_std_db": 0.010084195407578857
+    },
+    {
+      "backbone": "small",
+      "enc_depth": 6,
+      "dec_depth": 4,
+      "task": "temporal",
+      "depth_cost_mean_db": 0.0,
+      "depth_cost_std_db": 0.0
+    },
+    {
+      "backbone": "small",
+      "enc_depth": 5,
+      "dec_depth": 4,
+      "task": "temporal",
+      "depth_cost_mean_db": 0.25322728317853205,
+      "depth_cost_std_db": 0.0032526385747706802
+    },
+    {
+      "backbone": "small",
+      "enc_depth": 4,
+      "dec_depth": 4,
+      "task": "temporal",
+      "depth_cost_mean_db": 0.5940005087594115,
+      "depth_cost_std_db": 0.0037017735249443118
+    },
+    {
+      "backbone": "small",
+      "enc_depth": 3,
+      "dec_depth": 4,
+      "task": "temporal",
+      "depth_cost_mean_db": 1.2957962926392776,
+      "depth_cost_std_db": 0.0032972051619125074
+    },
+    {
+      "backbone": "small",
+      "enc_depth": 6,
+      "dec_depth": 3,
+      "task": "temporal",
+      "depth_cost_mean_db": 0.9678622213968785,
+      "depth_cost_std_db": 0.00897802764281336
+    },
+    {
+      "backbone": "small",
+      "enc_depth": 6,
+      "dec_depth": 2,
+      "task": "temporal",
+      "depth_cost_mean_db": 2.0439463974500964,
+      "depth_cost_std_db": 0.007261536149517922
+    },
+    {
+      "backbone": "small",
+      "enc_depth": 6,
+      "dec_depth": 4,
+      "task": "fre",
+      "depth_cost_mean_db": 0.0,
+      "depth_cost_std_db": 0.0
+    },
+    {
+      "backbone": "small",
+      "enc_depth": 5,
+      "dec_depth": 4,
+      "task": "fre",
+      "depth_cost_mean_db": 0.3661046731800989,
+      "depth_cost_std_db": 0.003436664338911527
+    },
+    {
+      "backbone": "small",
+      "enc_depth": 4,
+      "dec_depth": 4,
+      "task": "fre",
+      "depth_cost_mean_db": 0.904712104096145,
+      "depth_cost_std_db": 0.0021139050299941843
+    },
+    {
+      "backbone": "small",
+      "enc_depth": 3,
+      "dec_depth": 4,
+      "task": "fre",
+      "depth_cost_mean_db": 1.812309543107359,
+      "depth_cost_std_db": 0.007393176818902029
+    },
+    {
+      "backbone": "small",
+      "enc_depth": 6,
+      "dec_depth": 3,
+      "task": "fre",
+      "depth_cost_mean_db": 1.2988175995571833,
+      "depth_cost_std_db": 0.003444233158439984
+    },
+    {
+      "backbone": "small",
+      "enc_depth": 6,
+      "dec_depth": 2,
+      "task": "fre",
+      "depth_cost_mean_db": 2.743742300049106,
+      "depth_cost_std_db": 0.007273920738626098
+    }
+  ],
+  "selection_summary": [
+    {
+      "epsilon_db": 0.25,
+      "counts": {
+        "e6d4": 6,
+        "e5d4": 6,
+        "e4d4": 0,
+        "e3d4": 0,
+        "e6d3": 0,
+        "e6d2": 0
+      }
+    },
+    {
+      "epsilon_db": 0.5,
+      "counts": {
+        "e6d4": 0,
+        "e5d4": 9,
+        "e4d4": 3,
+        "e3d4": 0,
+        "e6d3": 0,
+        "e6d2": 0
+      }
+    },
+    {
+      "epsilon_db": 1.0,
+      "counts": {
+        "e6d4": 0,
+        "e5d4": 0,
+        "e4d4": 6,
+        "e3d4": 3,
+        "e6d3": 3,
+        "e6d2": 0
+      }
+    }
+  ]
+}

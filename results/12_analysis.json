@@ -1,0 +1,46 @@
+[
+  {
+    "enc_depth": 3,
+    "dec_depth": 4,
+    "task": "temporal",
+    "small_probe_gain_mean_db": 1.1956811033181873,
+    "small_probe_gain_std_db": 0.0007032668903159598,
+    "small_residual_mean_db": 0.25002728898928755,
+    "small_residual_std_db": 0.0020703651557691586,
+    "base_residual_mean_db": 0.1880283716539033,
+    "residual_gap_small_minus_base_db": 0.06199891733538426
+  },
+  {
+    "enc_depth": 3,
+    "dec_depth": 4,
+    "task": "fre",
+    "small_probe_gain_mean_db": 1.6341854236011943,
+    "small_probe_gain_std_db": 0.0013082011895887307,
+    "small_residual_mean_db": 0.4876074791862492,
+    "small_residual_std_db": 0.0009217493304042847,
+    "base_residual_mean_db": 0.2827441392607592,
+    "residual_gap_small_minus_base_db": 0.20486333992549
+  },
+  {
+    "enc_depth": 6,
+    "dec_depth": 2,
+    "task": "temporal",
+    "small_probe_gain_mean_db": 1.3644873363081331,
+    "small_probe_gain_std_db": 0.0010271658132889753,
+    "small_residual_mean_db": 0.8012360457101059,
+    "small_residual_std_db": 0.0008502249688734375,
+    "base_residual_mean_db": 0.8926859199405742,
+    "residual_gap_small_minus_base_db": -0.09144987423046835
+  },
+  {
+    "enc_depth": 6,
+    "dec_depth": 2,
+    "task": "fre",
+    "small_probe_gain_mean_db": 1.543273797015061,
+    "small_probe_gain_std_db": 0.0007297474058309401,
+    "small_residual_mean_db": 1.3935464254137013,
+    "small_residual_std_db": 0.0006839798123141476,
+    "base_residual_mean_db": 1.387299206342228,
+    "residual_gap_small_minus_base_db": 0.006247219071473298
+  }
+]

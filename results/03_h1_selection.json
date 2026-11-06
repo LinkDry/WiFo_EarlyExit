@@ -1,0 +1,60 @@
+{
+  "base": {
+    "rule": "minimum mean of temporal/fre cross-dataset dB NMSE; ties broken by lower GFLOPs",
+    "candidates": [
+      {
+        "enc_depth": 6,
+        "dec_depth": 2,
+        "score_db_mean": -6.01266147352142,
+        "gflops": 5.972688896
+      },
+      {
+        "enc_depth": 3,
+        "dec_depth": 4,
+        "score_db_mean": -8.765131308351918,
+        "gflops": 6.677331968
+      },
+      {
+        "enc_depth": 2,
+        "dec_depth": 1,
+        "score_db_mean": -3.536542111657054,
+        "gflops": 2.483027968
+      }
+    ],
+    "selected": {
+      "enc_depth": 3,
+      "dec_depth": 4,
+      "score_db_mean": -8.765131308351918,
+      "gflops": 6.677331968
+    }
+  },
+  "small": {
+    "rule": "minimum mean of temporal/fre cross-dataset dB NMSE; ties broken by lower GFLOPs",
+    "candidates": [
+      {
+        "enc_depth": 6,
+        "dec_depth": 2,
+        "score_db_mean": -6.186776563339684,
+        "gflops": 1.627389952
+      },
+      {
+        "enc_depth": 3,
+        "dec_depth": 4,
+        "score_db_mean": -7.67026972609839,
+        "gflops": 1.84549376
+      },
+      {
+        "enc_depth": 2,
+        "dec_depth": 1,
+        "score_db_mean": -3.5178852716992344,
+        "gflops": 0.687865856
+      }
+    ],
+    "selected": {
+      "enc_depth": 3,
+      "dec_depth": 4,
+      "score_db_mean": -7.67026972609839,
+      "gflops": 1.84549376
+    }
+  }
+}

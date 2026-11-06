@@ -1,0 +1,118 @@
+{
+  "D17/temporal/gflops": [
+    "official_small",
+    "official_little",
+    "official_tiny",
+    "base_full_h1",
+    "small_full_h1",
+    "small_h1_e5d4",
+    "small_h1_e4d4",
+    "base_probe_e3d4",
+    "little_h1_e6d4",
+    "tiny_h1_e6d4",
+    "tiny_h1_e6d2"
+  ],
+  "D17/temporal/gpu_b1_ms": [
+    "official_base",
+    "official_small",
+    "official_little",
+    "base_full_h1",
+    "base_probe_e3d4"
+  ],
+  "D17/temporal/cpu_b1_ms_t1": [
+    "official_small",
+    "official_little",
+    "base_full_h1",
+    "small_full_h1",
+    "base_probe_e3d4",
+    "little_h1_e6d4",
+    "tiny_h1_e6d2"
+  ],
+  "D17/fre/gflops": [
+    "official_small",
+    "official_little",
+    "official_tiny",
+    "small_full_h1",
+    "small_h1_e5d4",
+    "small_h1_e4d4",
+    "base_probe_e3d4",
+    "little_h1_e6d4",
+    "tiny_h1_e6d4",
+    "tiny_h1_e3d4",
+    "tiny_h1_e6d2"
+  ],
+  "D17/fre/gpu_b1_ms": [
+    "official_base",
+    "official_small",
+    "official_little",
+    "base_probe_e3d4"
+  ],
+  "D17/fre/cpu_b1_ms_t1": [
+    "official_small",
+    "official_little",
+    "small_full_h1",
+    "base_probe_e3d4",
+    "little_h1_e6d4",
+    "tiny_h1_e3d4",
+    "tiny_h1_e6d2"
+  ],
+  "D18/temporal/gflops": [
+    "official_small",
+    "official_little",
+    "official_tiny",
+    "base_full_h1",
+    "base_h1_e5d4",
+    "small_full_h1",
+    "small_h1_e5d4",
+    "base_probe_e3d4",
+    "little_h1_e6d4",
+    "tiny_h1_e6d4",
+    "tiny_h1_e6d2"
+  ],
+  "D18/temporal/gpu_b1_ms": [
+    "official_small",
+    "official_little",
+    "base_full_h1",
+    "base_h1_e5d4",
+    "base_probe_e3d4"
+  ],
+  "D18/temporal/cpu_b1_ms_t1": [
+    "official_small",
+    "base_full_h1",
+    "base_h1_e5d4",
+    "small_full_h1",
+    "base_probe_e3d4",
+    "little_h1_e6d4",
+    "tiny_h1_e6d4",
+    "tiny_h1_e6d2"
+  ],
+  "D18/fre/gflops": [
+    "official_small",
+    "official_little",
+    "official_tiny",
+    "base_full_h1",
+    "small_full_h1",
+    "base_probe_e3d4",
+    "little_h1_e6d4",
+    "tiny_h1_e6d4",
+    "tiny_h1_e3d4",
+    "tiny_h1_e6d2"
+  ],
+  "D18/fre/gpu_b1_ms": [
+    "official_small",
+    "official_little",
+    "base_full_h1",
+    "base_probe_e3d4"
+  ],
+  "D18/fre/cpu_b1_ms_t1": [
+    "official_base",
+    "official_small",
+    "base_full_h1",
+    "small_full_h1",
+    "base_probe_e3d4",
+    "little_h1_e6d4",
+    "tiny_h1_e6d4",
+    "tiny_h1_e3d4",
+    "tiny_h1_e6d2"
+  ]
+}

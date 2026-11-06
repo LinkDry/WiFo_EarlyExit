@@ -1,0 +1,10 @@
+﻿configuration,nmse_db,gflops,gpu_b1_p50_ms
+Official Base,-5.268,8.389,7.913
+Official Small,-5.046,2.298,5.629
+Official Little,-4.392,0.675,5.374
+Official Tiny,-3.563,0.219,11.439
+"Base full H1 (6,4)",-5.373,8.456,11.282
+"Base H1 (5,4)",-5.232,7.885,11.083
+"Base H1 (4,4)",-4.997,7.315,10.073
+"Base H1 (3,4)",-4.747,6.744,9.693
+"Base probe (3,4)",-5.314,6.744,9.732

@@ -1,0 +1,30 @@
+{
+  "h0_trigger": true,
+  "rule": "train full H0 for both backbones if any full-H1 generic gain > 0.05 dB",
+  "generic": {
+    "base": {
+      "temporal": {
+        "full_db": -9.22928687014131,
+        "full_h1_db": -9.603233316483788,
+        "generic_gain_db": 0.37394644634247776
+      },
+      "fre": {
+        "full_db": -9.664503844432861,
+        "full_h1_db": -10.088218088992758,
+        "generic_gain_db": 0.42371424455989626
+      }
+    },
+    "small": {
+      "temporal": {
+        "full_db": -8.820280859877807,
+        "full_h1_db": -9.279235258659215,
+        "generic_gain_db": 0.4589543987814082
+      },
+      "fre": {
+        "full_db": -9.341591531244465,
+        "full_h1_db": -9.735638726019609,
+        "generic_gain_db": 0.39404719477514405
+      }
+    }
+  }
+}

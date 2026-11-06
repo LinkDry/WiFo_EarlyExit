@@ -1,0 +1,50 @@
+[
+  {
+    "enc_depth": 3,
+    "dec_depth": 4,
+    "task": "temporal",
+    "full_update_gain_mean_db": 0.1438264358582432,
+    "probe_gain_mean_db": 0.6503008757244283,
+    "probe_gain_std_db": 0.0024996218975795502,
+    "residual_mean_db": 0.1880283716539033,
+    "residual_std_db": 0.003675902485847363,
+    "residual_min_db": 0.1834650691332289,
+    "residual_max_db": 0.19246654585796108
+  },
+  {
+    "enc_depth": 3,
+    "dec_depth": 4,
+    "task": "fre",
+    "full_update_gain_mean_db": 0.20068916920410373,
+    "probe_gain_mean_db": 0.9491458588882041,
+    "probe_gain_std_db": 0.002998472330782339,
+    "residual_mean_db": 0.2827441392607592,
+    "residual_std_db": 0.00037258094629888345,
+    "residual_min_db": 0.28233868122636885,
+    "residual_max_db": 0.2832382918169465
+  },
+  {
+    "enc_depth": 6,
+    "dec_depth": 2,
+    "task": "temporal",
+    "full_update_gain_mean_db": 0.10838383639554176,
+    "probe_gain_mean_db": 1.2196318911406072,
+    "probe_gain_std_db": 0.011330181044671504,
+    "residual_mean_db": 0.8926859199405742,
+    "residual_std_db": 0.0029250012498013025,
+    "residual_min_db": 0.8896524157077383,
+    "residual_max_db": 0.8966382084494597
+  },
+  {
+    "enc_depth": 6,
+    "dec_depth": 2,
+    "task": "fre",
+    "full_update_gain_mean_db": 0.17462994331384252,
+    "probe_gain_mean_db": 1.251863119197001,
+    "probe_gain_std_db": 0.009474050633437757,
+    "residual_mean_db": 1.387299206342228,
+    "residual_std_db": 0.003308607303623725,
+    "residual_min_db": 1.383144263212957,
+    "residual_max_db": 1.3912401851187575
+  }
+]

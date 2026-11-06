@@ -1,0 +1,340 @@
+{
+  "width_trends": [
+    {
+      "enc_depth": 3,
+      "dec_depth": 4,
+      "mask_ratio": 0.5,
+      "task": "temporal",
+      "per_seed": [
+        {
+          "train_seed": 100,
+          "depth_costs": [
+            0.6680553629867827,
+            1.2521920328641016,
+            2.155627885264357,
+            2.954982304413857
+          ],
+          "monotonic": true
+        },
+        {
+          "train_seed": 200,
+          "depth_costs": [
+            0.6822633128813358,
+            1.2576986615182566,
+            2.161052339011988,
+            2.9164246715234494
+          ],
+          "monotonic": true
+        },
+        {
+          "train_seed": 300,
+          "depth_costs": [
+            0.6789469885461639,
+            1.2547138635810882,
+            2.1708908547579355,
+            2.913908678864133
+          ],
+          "monotonic": true
+        }
+      ],
+      "monotonic_seed_count": 3,
+      "monotonic_seed_fraction": 1.0
+    },
+    {
+      "enc_depth": 3,
+      "dec_depth": 4,
+      "mask_ratio": 0.5,
+      "task": "fre",
+      "per_seed": [
+        {
+          "train_seed": 100,
+          "depth_costs": [
+            1.0068584667878913,
+            1.783997069388418,
+            2.4184829119568647,
+            2.466214545981198
+          ],
+          "monotonic": true
+        },
+        {
+          "train_seed": 200,
+          "depth_costs": [
+            1.0093955854879724,
+            1.7774774567617548,
+            2.411255445698357,
+            2.4488086109959477
+          ],
+          "monotonic": true
+        },
+        {
+          "train_seed": 300,
+          "depth_costs": [
+            1.012530647586516,
+            1.7807748999292485,
+            2.414466338637977,
+            2.4848282079349815
+          ],
+          "monotonic": true
+        }
+      ],
+      "monotonic_seed_count": 3,
+      "monotonic_seed_fraction": 1.0
+    },
+    {
+      "enc_depth": 3,
+      "dec_depth": 4,
+      "mask_ratio": 0.25,
+      "task": "temporal",
+      "per_seed": [
+        {
+          "train_seed": 100,
+          "depth_costs": [
+            0.6411837431037295,
+            0.6421088093257428,
+            0.8237230784476299,
+            0.9429395563706118
+          ],
+          "monotonic": true
+        },
+        {
+          "train_seed": 200,
+          "depth_costs": [
+            0.5721344260743741,
+            0.5964003840435907,
+            0.8137183824936063,
+            0.9466489552551653
+          ],
+          "monotonic": true
+        },
+        {
+          "train_seed": 300,
+          "depth_costs": [
+            0.6094740019132487,
+            0.5945132672562679,
+            0.8223057758238514,
+            0.9160203676062881
+          ],
+          "monotonic": false
+        }
+      ],
+      "monotonic_seed_count": 2,
+      "monotonic_seed_fraction": 0.6666666666666666
+    },
+    {
+      "enc_depth": 3,
+      "dec_depth": 4,
+      "mask_ratio": 0.25,
+      "task": "fre",
+      "per_seed": [
+        {
+          "train_seed": 100,
+          "depth_costs": [
+            0.4215930976206428,
+            0.527668924702617,
+            0.587359004617805,
+            0.830672202380887
+          ],
+          "monotonic": true
+        },
+        {
+          "train_seed": 200,
+          "depth_costs": [
+            0.290719430729907,
+            0.5443165944944921,
+            0.59312619967766,
+            0.8202996195651506
+          ],
+          "monotonic": true
+        },
+        {
+          "train_seed": 300,
+          "depth_costs": [
+            0.3411879625333718,
+            0.5217154704132225,
+            0.5878038942271555,
+            0.7848643731771752
+          ],
+          "monotonic": true
+        }
+      ],
+      "monotonic_seed_count": 3,
+      "monotonic_seed_fraction": 1.0
+    },
+    {
+      "enc_depth": 6,
+      "dec_depth": 2,
+      "mask_ratio": 0.5,
+      "task": "temporal",
+      "per_seed": [
+        {
+          "train_seed": 100,
+          "depth_costs": [
+            1.7248564515724274,
+            1.8318177032626686,
+            2.32552858023105,
+            2.349638736416197
+          ],
+          "monotonic": true
+        },
+        {
+          "train_seed": 200,
+          "depth_costs": [
+            1.7498463547616288,
+            1.818149549169017,
+            2.3401604678175154,
+            2.4160284938422656
+          ],
+          "monotonic": true
+        },
+        {
+          "train_seed": 300,
+          "depth_costs": [
+            1.7605140951445222,
+            1.8332102562313812,
+            2.2527862377825443,
+            2.3357638207903877
+          ],
+          "monotonic": true
+        }
+      ],
+      "monotonic_seed_count": 3,
+      "monotonic_seed_fraction": 1.0
+    },
+    {
+      "enc_depth": 6,
+      "dec_depth": 2,
+      "mask_ratio": 0.5,
+      "task": "fre",
+      "per_seed": [
+        {
+          "train_seed": 100,
+          "depth_costs": [
+            2.2501405778652215,
+            2.5615283275536482,
+            3.3329947511520377,
+            3.2108852953669107
+          ],
+          "monotonic": false
+        },
+        {
+          "train_seed": 200,
+          "depth_costs": [
+            2.271567900579152,
+            2.5303011186676994,
+            3.3219618338293326,
+            3.2353689318649135
+          ],
+          "monotonic": false
+        },
+        {
+          "train_seed": 300,
+          "depth_costs": [
+            2.2765143746458936,
+            2.5576547087206176,
+            3.340957349731089,
+            3.214576934932972
+          ],
+          "monotonic": false
+        }
+      ],
+      "monotonic_seed_count": 0,
+      "monotonic_seed_fraction": 0.0
+    },
+    {
+      "enc_depth": 6,
+      "dec_depth": 2,
+      "mask_ratio": 0.25,
+      "task": "temporal",
+      "per_seed": [
+        {
+          "train_seed": 100,
+          "depth_costs": [
+            1.543944816307956,
+            1.7323237881052087,
+            1.523521608372075,
+            0.886371247732817
+          ],
+          "monotonic": false
+        },
+        {
+          "train_seed": 200,
+          "depth_costs": [
+            1.5956327780727122,
+            1.6799147132733454,
+            1.4491607518476428,
+            0.9656764444505361
+          ],
+          "monotonic": false
+        },
+        {
+          "train_seed": 300,
+          "depth_costs": [
+            1.6061362986961445,
+            1.7074748860683462,
+            1.4819406110614217,
+            0.8784855587482188
+          ],
+          "monotonic": false
+        }
+      ],
+      "monotonic_seed_count": 0,
+      "monotonic_seed_fraction": 0.0
+    },
+    {
+      "enc_depth": 6,
+      "dec_depth": 2,
+      "mask_ratio": 0.25,
+      "task": "fre",
+      "per_seed": [
+        {
+          "train_seed": 100,
+          "depth_costs": [
+            0.8121578685487929,
+            0.9133228386929035,
+            1.7024368042437503,
+            1.6354650411581328
+          ],
+          "monotonic": false
+        },
+        {
+          "train_seed": 200,
+          "depth_costs": [
+            0.8345098467288183,
+            0.9118556908730149,
+            1.7473487357979414,
+            1.6566163836030237
+          ],
+          "monotonic": false
+        },
+        {
+          "train_seed": 300,
+          "depth_costs": [
+            0.8444040520844442,
+            0.9165855686380127,
+            1.6851623144060621,
+            1.5706671846897242
+          ],
+          "monotonic": false
+        }
+      ],
+      "monotonic_seed_count": 0,
+      "monotonic_seed_fraction": 0.0
+    }
+  ],
+  "protocol": {
+    "core_models": 72,
+    "probe_models": 6,
+    "bootstrap_repeats": 200,
+    "sample_sizes": [
+      16,
+      64,
+      256,
+      2000
+    ],
+    "epsilons": [
+      0.25,
+      0.5,
+      1.0
+    ]
+  }
+}
